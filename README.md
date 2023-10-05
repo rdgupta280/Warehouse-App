@@ -1,13 +1,15 @@
-# WORKSHOP
+# WAREHOUSE
 
 # Description
 
 ### The Warehouse listing page have these feature
-#### -> We can search the warehouses by warehouse name
-<ol> -> We can filter warehouse based on
-	<li>-> city</li>
-	<li>-> cluster</>
-<li>-> space available limit</li>
+#### . We can search the warehouses by warehouse name
+
+#### . We can filter warehouse based on :
+<ol> 
+	<li> City</li>
+	<li> Cluster</>
+<li> Space available limit</li>
 </ol>
 
 # Tech Stack
