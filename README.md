@@ -2,13 +2,13 @@
 
 # Description
 
-The Warehouse listing page have these feature
--> We can search the warehouses by warehouse name
--> We can filter warehouse based on
-	-> city
-	-> cluster
-	-> space available limit
-
+### The Warehouse listing page have these feature
+#### -> We can search the warehouses by warehouse name
+<ol> -> We can filter warehouse based on
+	<li>-> city</li>
+	<li>-> cluster</>
+<li>-> space available limit</li>
+</ol>
 
 # Tech Stack
 1. ReactJS
